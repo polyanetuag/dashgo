@@ -26,7 +26,7 @@ const options = {
   tooltip: {
     enabled: false,
   },
-  xaxis: {
+  xAxis: {
     type: 'datetime',
     axisBorder: {
       color: theme.colors.gray[600]
