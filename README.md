@@ -5,9 +5,9 @@
 <h3 align="center">  
   <p align="center">
     <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-como-executar">Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-layouts">Layouts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-como-executar">Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-licença">Licença</a>
   </p>
 </h3>
@@ -18,6 +18,31 @@ Para a realização do projeto, foram implementados as bibliotecas:
  - apexcharts - para a criação dos gráficos
  - chakra UI - para a customização do projeto
  - yup - para a validação dos formulários
+
+## 🚀 Tecnologias
+
+- ReactJS
+- TypeScript
+- Chakra-UI
+- Apexcharts
+- Yup
+- Eslint
+  
+## 🎨 Layouts
+
+<p align="center">Dashboard
+  <img width= '500' src="./public/assets/dashboard.png" /> 
+</p>
+
+<p align="center">Listagem de usuários
+  <img width= '500' src="./public/assets/users.png" />
+</p>
+
+<p align="center">Criação de usuários
+  <img width= '500' src="./public/assets/users-create.png" />
+</p>
+
+
 ## ⏱ Como executar
 
 Primeiro, execute o servidor de desenvolvimento:
@@ -37,21 +62,6 @@ $ yarn dev
 ```
 
 Depois, abra http://localhost:3000 com seu navegador para ver o resultado.
-
-## 🚀 Tecnologias
-
-- ReactJS
-- TypeScript
-- Chakra-UI
-- Apexcharts
-- Yup
-- Eslint
-  
-## 🚀 Layouts
-
-<img width= '500' src="./public/assets/dashboard.png" />
-<img width= '500' src="./public/assets/users.png" />
-<img width= '500' src="./public/assets/users-create.png" />
 
 ## 📝 Licença
 
