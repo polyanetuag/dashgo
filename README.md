@@ -1,5 +1,5 @@
 <p align="center">
-  <h2 align="center">dashgo<img width= '12' src="./public/assets/ponto.png" /></h2>
+  <h1 align="center">dashgo<img width= '12' src="./public/assets/ponto.png" /></h1>
 </p>
 
 <h3 align="center">  
@@ -14,14 +14,17 @@
 
 ## 📚 Sobre
 
+O objetivo do projeto foi criar um Dashboard com CRUD de usuários e um sistema de autenticação.
+
 Para a realização do projeto, foram implementados as bibliotecas:
  - apexcharts - para a criação dos gráficos
- - chakra UI - para a customização do projeto
+ - Chakra UI - para a customização do projeto
  - yup - para a validação dos formulários
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias utilizadas:
 
 - ReactJS
+- Next.js
 - TypeScript
 - Chakra-UI
 - Apexcharts
@@ -30,18 +33,16 @@ Para a realização do projeto, foram implementados as bibliotecas:
   
 ## 🎨 Layouts
 
-<p align="center">Dashboard
-  <img width= '500' src="./public/assets/dashboard.png" /> 
-</p>
+<div align="center">
+  <h3>Dashboard</h3>
+    <img width= '700' src="./public/assets/dashboard.png" /> 
 
-<p align="center">Listagem de usuários
-  <img width= '500' src="./public/assets/users.png" />
-</p>
+  <h3>Listagem de usuários</h3>
+    <img width= '700' src="./public/assets/users.png" />
 
-<p align="center">Criação de usuários
-  <img width= '500' src="./public/assets/users-create.png" />
-</p>
-
+  <h3>Criação de usuários</h3>
+    <img width= '700' src="./public/assets/users-create.png" />
+</div>
 
 ## ⏱ Como executar
 
@@ -65,7 +66,7 @@ Depois, abra http://localhost:3000 com seu navegador para ver o resultado.
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Esse projeto está sob a licença MIT.
 
 ---
 Desenvolvido com 💜 por Polyane Tuag
