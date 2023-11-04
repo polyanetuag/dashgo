@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">dashgo<img width= '12' src="./public/assets/ponto.png" /></h1>
+  <h1 align="center">dashgo<img width= '20' position="top" src="./public/assets/ponto.png" /></h1>
 </p>
 
 <h3 align="center">  
