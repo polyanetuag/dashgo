@@ -1,5 +1,8 @@
 <p align="center">
-  <h1 align="center">dashgo<img width= '20' position="top" src="./public/assets/ponto.png" /></h1>
+  <h1 align="center">
+    Dashgo<img width= '20' src="./public/assets/ponto.png" />
+    <p>Dashboard de usuários</p>
+  </h1>
 </p>
 
 <h3 align="center">  
