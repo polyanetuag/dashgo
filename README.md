@@ -17,7 +17,7 @@
 
 ## 📚 Sobre
 
-O objetivo do projeto foi criar um dashboard com cadastramento(CRUD) de usuários e um sistema de autenticação.
+O objetivo do projeto foi criar um dashboard com cadastramento de usuários - com CRUD - e um sistema de autenticação.
 
 Para a realização do projeto, foram implementados as bibliotecas:
  - apexcharts - para a criação dos gráficos
