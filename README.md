@@ -1,7 +1,8 @@
 <p align="center">
   <h1 align="center">
-    Dashgo<img width= '20' src="./public/assets/ponto.png" />
-    <p>dashboard de usuários</p>
+    Dashgo<img width= '20' src="./public/assets/ponto.png" /> 
+    📇
+<p>dashboard de usuários</p>
   </h1>
 </p>
 
