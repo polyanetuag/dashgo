@@ -21,7 +21,7 @@
 O objetivo do projeto foi criar um dashboard para cadastro de usuários juntamente com um sistema de autenticação.
 
 Para a realização do projeto, foram implementados as bibliotecas:
- - **apexcharts** - para a criação dos gráficos
+ - **Apexcharts** - para a criação dos gráficos
  - **Chakra UI** - para a customização do projeto
  - **yup** - para a validação dos formulários
 
