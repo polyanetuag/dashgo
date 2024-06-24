@@ -18,7 +18,7 @@
 
 ## 📚 Sobre
 
-O objetivo do projeto foi criar um dashboard para cadastro de usuários juntamente com um sistema de autenticação.
+O objetivo do projeto foi criar um dashboard para cadastro de usuários com um sistema de autenticação.
 
 Para a realização do projeto, foram implementadas as bibliotecas:
  - **Apexcharts** - para a criação dos gráficos
