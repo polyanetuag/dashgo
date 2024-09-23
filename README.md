@@ -28,7 +28,7 @@ Para a realização do projeto, foram implementadas as bibliotecas:
 ## 🚀 Tecnologias utilizadas:
 
 - [ReactJS](https://react.dev/)
-- Next.js
+- [Next.js](https://nextjs.org/)
 - TypeScript
 - Chakra-UI
 - Apexcharts
