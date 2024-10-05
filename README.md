@@ -33,7 +33,6 @@ Para a realização do projeto, foram implementadas as bibliotecas:
 - Chakra-UI
 - Apexcharts
 - Yup
-- Eslint
   
 ## 🎨 Layouts
 
