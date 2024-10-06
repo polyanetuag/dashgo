@@ -29,7 +29,7 @@ Para a realização do projeto, foram implementadas as bibliotecas:
 
 - [ReactJS](https://react.dev/)
 - [Next.js](https://nextjs.org/)
-- TypeScript
+- [TypeScript](https://typescriptlang.org)
 - Chakra-UI
 - Apexcharts
 - Yup
