@@ -31,7 +31,7 @@ Para a realização do projeto, foram implementadas as bibliotecas:
 - [Next.js](https://nextjs.org/)
 - [TypeScript](https://typescriptlang.org)
 - [Chakra-UI](https://v2.chakra-ui.com/)
-- Apexcharts
+- [Apexcharts](https://apexcharts.com/)
 - Yup
   
 ## 🎨 Layouts
