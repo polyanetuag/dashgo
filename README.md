@@ -32,7 +32,7 @@ Para a realização do projeto, foram implementadas as bibliotecas:
 - [TypeScript](https://typescriptlang.org)
 - [Chakra-UI](https://v2.chakra-ui.com/)
 - [Apexcharts](https://apexcharts.com/)
-- Yup
+- [Yup](https://www.npmjs.com/package/yup/v/1.0.0-alpha.3)
   
 ## 🎨 Layouts
 
